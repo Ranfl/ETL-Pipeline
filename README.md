@@ -10,6 +10,7 @@ ETL Pipeline ini dibuat untuk memenuhi submission kelas dari Dicoding. Proyek in
 - ✅ **Unit Test**: Masing-masing komponen (`extract`, `transform`, `load`) telah diuji dengan *test coverage*.
 
 ## 🗂️ Struktur Folder
+```
 .
 ├── main.py # Pipeline utama
 ├── utils/ # Fungsi modular (extract, transform, load)
@@ -24,7 +25,7 @@ ETL Pipeline ini dibuat untuk memenuhi submission kelas dari Dicoding. Proyek in
 ├── .gitignore # File/folder yang tidak diikutsertakan di Git
 ├── requirements.txt # Dependency yang dibutuhkan proyek
 └── README.md # Dokumentasi proyek ini
-
+```
 
 
 ## ⚙️ Cara Menjalankan
