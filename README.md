@@ -30,13 +30,14 @@ ETL Pipeline ini dibuat untuk memenuhi submission kelas dari Dicoding. Proyek in
 
 ## ⚙️ Cara Menjalankan
 
-1. **Clone repo**:
-   ```bash
-   git clone https://github.com/Ranfl/ETL-Pipeline.git
-   cd ETL-Pipeline
+Clone repo:
+```
+git clone https://github.com/Ranfl/ETL-Pipeline.git
+cd ETL-Pipeline
+```
 
 Install dependency:
-```bash
+```
 pip install -r requirements.txt
 ```
 
