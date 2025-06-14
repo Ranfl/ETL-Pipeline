@@ -1,0 +1,17 @@
+# menginstall semua requirements
+pip install -r requirements.txt
+
+# menjalankan ETL
+python main.py
+
+# melakukan testing menggunakan coverage
+coverage run -m pytest tests/
+
+# melihat report hasil coverage
+coverage report
+
+# membuat report HTML
+coverage html
+
+# membuka report HTML di browser
+start htmlcov\index.html

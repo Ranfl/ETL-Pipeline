@@ -1,0 +1,14 @@
+# install requirements
+pip install -r requirements.txt
+
+# run ETL
+python main.py
+
+# testing
+coverage run -m pytest test/
+
+# report hasil coverage
+coverage report
+
+# link sheet
+https://docs.google.com/spreadsheets/d/1QNirzI3-T5btgxqFSypXwk2kTCHCriY_Ffc9xMkGlOE/edit?usp=sharing
