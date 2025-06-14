@@ -1,1 +1,15 @@
-Submission ETL.zip
+Submission ETL.zipgen-lang-client-0308122768-c2bb32927087.json
+# Virtual environment
+dicodingETL/
+
+# Environment secrets
+.env
+
+# Coverage file
+.coverage
+
+# Python cache
+__pycache__/
+*.pyc
+
+ref/
